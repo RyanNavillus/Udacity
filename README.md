@@ -10,12 +10,12 @@ The class is organized into a number of sections. Each section contains a number
 # Projects
 The 5 section projects are listed and described below:
 
-## Predicting Bike Sharing Data
+### Predicting Bike Sharing Data
 
-## Dog Breed Classifier
+### Dog Breed Classifier
 
-## Generate TV Scripts
+### Generate TV Scripts
 
-## Generate Faces
+### Generate Faces
 
-## Teach a Quadcopter How to Fly
+### Teach a Quadcopter How to Fly
