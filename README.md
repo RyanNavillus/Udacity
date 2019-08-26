@@ -11,6 +11,11 @@ The class is organized into a number of sections. Each section contains a number
 The 5 section projects are listed and described below:
 
 ### Predicting Bike Sharing Data
+Predicting daily bike rental ridership.
+* Task: Regression
+* Architecture: Feed forward neural network
+* Results: 0.169 validation loss (mean squared error)
+* Learned: Regression on simple data with neural networks in Keras
 
 ### Dog Breed Classifier
 
